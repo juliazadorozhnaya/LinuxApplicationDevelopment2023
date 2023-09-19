@@ -7,8 +7,7 @@
 
 
 ### Homeworks for "Linux Application Development" course in CMC MSU
-* [Сборочное окружение](./01_BuildReq)
-* [Работа с терминалом и простой проект](./02_TerminalProject)
+* [Работа с терминалом и простой проект](./01_TerminalProject)
 * [Многофайловая сборка](./03_Multifile)
 * [Обработка текстов и сценарии](./04_Text)
 * [Отладка](./05_Debugging)
