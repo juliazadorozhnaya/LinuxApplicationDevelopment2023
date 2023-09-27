@@ -8,7 +8,7 @@
 
 ### Homeworks for "Linux Application Development" course in CMC MSU
 * [Работа с терминалом и простой проект](./01_TerminalProject)
-* [Многофайловая сборка](./03_Multifile)
+* [Многофайловая сборка](./02_Multifile)
 * [Обработка текстов и сценарии](./04_Text)
 * [Отладка](./05_Debugging)
 * [Трассировка и защита памяти](./07_TracingFencing)
