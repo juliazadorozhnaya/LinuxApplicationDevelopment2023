@@ -4,6 +4,7 @@
 #include <ctype.h>
 #include <string.h>
 #include <rhash.h>
+#include "config.h"
 
 #ifdef USE_READLINE
 #include <readline/readline.h>
