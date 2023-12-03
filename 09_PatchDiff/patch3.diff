@@ -1,0 +1,13 @@
+--- maze.c.orig 2023-01-01 00:00:00.000000000 +0000
++++ maze.c 2023-04-01 00:00:00.000000000 +0000
+@@ -26,7 +26,7 @@
+     for (int i = 0; i < size; ++i) {
+         printf("%s\n", maze[i]);
+     }
+
+-    // Free memory
++    // Deallocate memory
+     for (int i = 0; i < size; ++i) {
+         free(maze[i]);
+     }
+     free(maze);
